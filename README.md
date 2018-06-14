@@ -1,2 +1,2 @@
-# file-home-objectedge-git-spinlife-tests-testcafe
-TEstando drag and drop para criar repository
+Repositório com Pastas de teste em page object
+Link falso por medidas de segurança
